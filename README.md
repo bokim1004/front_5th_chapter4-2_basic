@@ -3,8 +3,10 @@
 
 ## 성능 개선 보고서
 - 성능 개선 전 pageSpeed Insights를 사용한 성능 측정
-![image](https://github.com/user-attachments/assets/3d4a9f3c-4935-4501-aa56-632cd7442ec8)
+- <img width="627" alt="스크린" src="https://github.com/user-attachments/assets/3d4a9f3c-4935-4501-aa56-632cd7442ec8" />
 
+
+- 성능 개선 후 pageSpeed Insights를 사용한 성능 측정
 <img width="627" alt="스크린샷 2025-06-02 오후 5 59 01" src="https://github.com/user-attachments/assets/cfa09ef7-2825-4e9c-8b0f-a644a59854ed" />
 
 
